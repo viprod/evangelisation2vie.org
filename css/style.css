@@ -1,0 +1,39 @@
+/* YOUR CUSTOM STYLES */
+.nav a{
+    color: white;
+}
+
+@font-face {
+    font-family: 'Allan-Bold'; /*a name to be used later*/
+    src: url("../font/Allan/Allan-Regular.ttf");
+}
+
+@font-face {
+    font-family: 'Allan-Regular'; /*a name to be used later*/
+    src: url("../font/Allan/Allan-Regular.ttf");
+}
+
+@font-face {
+    font-family: 'Allan-Regular'; /*a name to be used later*/
+    src: url("../font/Allan/Allan-Regular.ttf");
+}
+
+@font-face {
+    font-family: 'Robotor'; /*a name to be used later*/
+    src: url("../font/roboto/Roboto-Medium.ttf");
+}
+
+@font-face {
+    font-family: 'Urban Elegance'; /*a name to be used later*/
+    src: url("../font/Urban%20Elegance/Urban%20Elegance%20Regular.ttf");
+    src: url("../font/Urban%20Elegance/Urban%20Elegance%20Bold.ttf");
+    src: url("../font/Urban%20Elegance/Urban%20Elegance%20Italic.ttf");
+    src: url("../font/Urban%20Elegance/Urban%20Elegance%20Bold%20Italic.ttf");
+}
+
+
+#caption {
+    font-family: "Roboto";
+    font-size: 20px;
+    min-font-size: 0px;
+}
